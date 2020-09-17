@@ -2,7 +2,7 @@
 //  GameViewController.swift
 //  Truth or Dare
 //
-//  Created by Mike Zhang on 9/15/20.
+//  Created by Michael Cheung.
 //  Copyright © 2020 Michael Cheung. All rights reserved.
 //
 
