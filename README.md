@@ -46,7 +46,7 @@ git clone https://github.com/github_username/repo_name.git
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Thanks
 
 * [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 * [iOS Tutorial](https://www.youtube.com/watch?v=09TeUXjzpKs&t=10377s&ab_channel=CodeWithChris)
