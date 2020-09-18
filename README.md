@@ -2,8 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-    <IMG SRC="truthdare.gif">
+    <IMG SRC="truthdare.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Truth or Dare</h3>
@@ -85,15 +84,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 
 
