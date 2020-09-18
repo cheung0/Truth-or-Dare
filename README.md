@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://www.youtube.com/watch?v=6NinAigF6zw&t=3s&ab_channel=MikeC">
     <IMG SRC="truthdare.gif" alt="Logo" width="160" height="300">
   </a>
 
