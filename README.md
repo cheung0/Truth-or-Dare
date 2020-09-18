@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <IMG SRC="truthdare.gif" alt="Logo" width="160" height="290">
+    <IMG SRC="truthdare.gif" alt="Logo" width="160" height="300">
   </a>
 
   <h3 align="center">Truth or Dare</h3>
