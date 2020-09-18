@@ -9,7 +9,7 @@
   <p align="center">
     📱 IOS app that plays the game Truth or Dare
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>View Demo »</strong></a>
+    <a href="https://www.youtube.com/watch?v=6NinAigF6zw&t=3s&ab_channel=MikeC"><strong>View Demo »</strong></a>
   </p>
 </p>
 
