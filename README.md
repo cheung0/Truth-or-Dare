@@ -18,18 +18,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
-
-
 ### Built With
 
-* []()
-* []()
-* []()
+* [Swift](https://swift.org/documentation/)
+* [Xcode](https://developer.apple.com/xcode/)
+* [Kapwing](https://www.kapwing.com/)
 
 
 
@@ -50,20 +43,6 @@ To get a local copy up and running follow these simple steps.
 git clone https://github.com/github_username/repo_name.git
 ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
@@ -79,16 +58,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
+* [iOS Tutorial](https://www.youtube.com/watch?v=09TeUXjzpKs&t=10377s&ab_channel=CodeWithChris)
+* [Xcode Documentation](https://developer.apple.com/documentation/xcode/)
