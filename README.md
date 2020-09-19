@@ -24,6 +24,9 @@
 * [UIKit](https://developer.apple.com/documentation/uikit)
 * [Xcode](https://developer.apple.com/xcode/)
 
+### Why I Created this App
+To play Truth or Dare with my friends and family that keeps track of score.
+
 
 
 <!-- GETTING STARTED -->
