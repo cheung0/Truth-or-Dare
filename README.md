@@ -7,7 +7,7 @@
   <h3 align="center">Truth or Dare</h3>
 
   <p align="center">
-    📱 iPhone app that plays the game Truth or Dare
+    📱 iOS app that plays the game Truth or Dare
     <br />
     <a href="https://www.youtube.com/watch?v=6NinAigF6zw&t=3s&ab_channel=MikeC"><strong>View Demo »</strong></a>
   </p>
